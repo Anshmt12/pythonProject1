@@ -1,3 +1,5 @@
+#Image mosaicing
+
 import numpy as np  #importing numpy library to work with arrays and scientific computing
 import cv2          #importing opencv library after installing it. It has optimized algorithms for our tasks
 import glob         #it is used to quickly extract pathnames. like here we need paths of multiple images and it helps in that
